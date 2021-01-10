@@ -3,8 +3,8 @@
     Version: 1.2.2
     Last Change: 03/25/2020
     Author: DongWook Kim
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Repo: https://github.com/dong-wook94/devportfolio-template
+    Issues: https://github.com/dong-wook94/devportfolio-template/issues
 
     Description: This file contains all the scripts associated with the single-page
     portfolio website.
